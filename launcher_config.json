@@ -1,0 +1,13 @@
+{
+	"clientVersion": "12.91.12332",
+	"launcherVersion": "1.3",
+	"replaceFolders": true,
+	"replaceFolderName": [
+		{
+			"name": "assets"
+		}
+	],
+	"clientFolder": "FasterOT",
+	"newClientUrl" : "http://github.com/carlospess0a/fasterotassets/archive/refs/tags/v1.zip",
+	"clientExecutable": "client.exe"
+}
